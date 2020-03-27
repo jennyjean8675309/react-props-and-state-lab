@@ -15,7 +15,7 @@ const MALE_PET_NAMES = [
   "Teasle",
   "Sprinkle",
   "Radar",
-  "Charles",
+  "Hemingway",
   "Electron",
   "Sprout",
   "Mega",
