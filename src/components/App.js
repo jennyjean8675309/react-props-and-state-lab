@@ -15,8 +15,6 @@ class App extends React.Component {
     }
   }
 
-  // Just testing something...
-
   render() {
     return (
       <div className="ui container">
